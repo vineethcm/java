@@ -9,6 +9,7 @@ import com.qburst.FileTest.FileUtil;
 	     * @param args
 	     * @throws IOException
 	     */
+	//test
 	    public static void main(String[] args) throws IOException {
 	        String inputFile = null, outputFile = null;
 	        Scanner as = new Scanner(System.in);
